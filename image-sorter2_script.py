@@ -63,6 +63,9 @@ labels = [
     "Normal-R",
     "Normal-L",
     "Normal-B",
+    "DermC-R",
+    "DermC-L",
+    "DermC-B",
     "DELETE",
 ]
 
