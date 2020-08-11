@@ -31,7 +31,7 @@ from PIL import ImageTk, Image
 
 copy_or_move = "move"
 file_extensions = [".jpg", ".png"]
-resize = False
+resize = True
 labels = [
     "Stye-RUL",
     "Stye-RLL",
